@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: dm2
+Built-By: Luis Oz. de Villalba
 Build-Jdk: 17.0.12
 Main-Class: site.luisicj.juegolucha.MainApp
 Created-By: Maven Integration for Eclipse
